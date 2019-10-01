@@ -5,4 +5,4 @@ msgstr ""
 "Language: template\n"
 
 msgid "Could not json_decode the string you entered."
-msgstr "No se pudo json_decodificar la cadena que ha introducido."
+msgstr "No se pudo json_decode el string que ha introducido."

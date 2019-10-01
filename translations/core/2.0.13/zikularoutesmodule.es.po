@@ -6,21 +6,30 @@ msgstr ""
 
 msgid "Back to overview"
 msgstr "Volver a la vista general"
+
 msgid "Delete"
 msgstr "Eliminar"
+
 msgid "Delete this route"
 msgstr "Eliminar esta ruta"
+
 msgid "Details"
 msgstr "Detalles"
+
 msgid "Edit"
 msgstr "Editar"
+
 msgid "Edit this route"
 msgstr "Editar esta ruta"
+
 msgid "Open preview page"
 msgstr "Abrir página de vista previa"
+
 msgid "Preview"
 msgstr "Vista previa"
+
 msgid "Reuse"
-msgstr "Reutilización"
+msgstr "Utiliza de nuevo"
+
 msgid "Reuse for new route"
-msgstr "Reutilización para nueva ruta"
+msgstr "Utiliza de nuevo para nueva ruta"
